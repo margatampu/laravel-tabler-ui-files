@@ -1,0 +1,19 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext");
+
+// Variables
+@import "variables";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+// Tabler
+@import "~tabler-ui/src/assets/scss/bundle";
+
+// Font Awesome
+@import "~font-awesome/scss/font-awesome";
+
+// Tablers Plugins
+@import "~tabler-ui/src/assets/plugins/charts-c3/plugin";
+@import "~tabler-ui/src/assets/plugins/fullcalendar/plugin";
+@import "~tabler-ui/src/assets/plugins/iconfonts/plugin";
+@import "~tabler-ui/src/assets/plugins/maps-google/plugin";
+@import "~tabler-ui/src/assets/plugins/prismjs/plugin";
